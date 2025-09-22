@@ -1,3 +1,3 @@
 <?php
 
-echo "o número da sorte é ".rand(1 , 100);
+echo "o número sorteado foi ".rand(10 , 1000);
